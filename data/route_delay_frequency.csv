@@ -1,0 +1,197 @@
+Factory,State/Province,Total_Shipments,Records_Above_Threshold,Delay_Frequency_Percent
+Lot's O' Nuts,Alabama,34,34,100.0
+Lot's O' Nuts,Alberta,16,16,100.0
+Lot's O' Nuts,Arizona,111,111,100.0
+Lot's O' Nuts,Arkansas,31,31,100.0
+Lot's O' Nuts,British Columbia,18,18,100.0
+Lot's O' Nuts,California,1125,1125,100.0
+Lot's O' Nuts,Colorado,103,103,100.0
+Lot's O' Nuts,Connecticut,47,47,100.0
+Lot's O' Nuts,Delaware,43,43,100.0
+Lot's O' Nuts,District of Columbia,8,8,100.0
+Lot's O' Nuts,Florida,209,209,100.0
+Lot's O' Nuts,Georgia,110,110,100.0
+Lot's O' Nuts,Idaho,14,14,100.0
+Lot's O' Nuts,Illinois,267,267,100.0
+Lot's O' Nuts,Indiana,90,90,100.0
+Lot's O' Nuts,Iowa,16,16,100.0
+Lot's O' Nuts,Kansas,15,15,100.0
+Lot's O' Nuts,Kentucky,77,77,100.0
+Lot's O' Nuts,Louisiana,24,24,100.0
+Lot's O' Nuts,Maine,6,6,100.0
+Lot's O' Nuts,Manitoba,2,2,100.0
+Lot's O' Nuts,Maryland,60,60,100.0
+Lot's O' Nuts,Massachusetts,76,76,100.0
+Lot's O' Nuts,Michigan,147,147,100.0
+Lot's O' Nuts,Minnesota,43,43,100.0
+Lot's O' Nuts,Mississippi,30,30,100.0
+Lot's O' Nuts,Missouri,36,36,100.0
+Lot's O' Nuts,Montana,8,8,100.0
+Lot's O' Nuts,Nebraska,23,23,100.0
+Lot's O' Nuts,Nevada,24,24,100.0
+Lot's O' Nuts,New Brunswick,4,4,100.0
+Lot's O' Nuts,New Hampshire,13,13,100.0
+Lot's O' Nuts,New Jersey,65,65,100.0
+Lot's O' Nuts,New Mexico,18,18,100.0
+Lot's O' Nuts,New York,645,645,100.0
+Lot's O' Nuts,Newfoundland and Labrador,6,6,100.0
+Lot's O' Nuts,North Carolina,143,143,100.0
+Lot's O' Nuts,North Dakota,5,5,100.0
+Lot's O' Nuts,Ohio,262,262,100.0
+Lot's O' Nuts,Oklahoma,41,41,100.0
+Lot's O' Nuts,Ontario,28,28,100.0
+Lot's O' Nuts,Oregon,77,77,100.0
+Lot's O' Nuts,Pennsylvania,331,331,100.0
+Lot's O' Nuts,Prince Edward Island,6,6,100.0
+Lot's O' Nuts,Quebec,24,24,100.0
+Lot's O' Nuts,Rhode Island,30,30,100.0
+Lot's O' Nuts,South Carolina,21,21,100.0
+Lot's O' Nuts,South Dakota,9,9,100.0
+Lot's O' Nuts,Tennessee,109,109,100.0
+Lot's O' Nuts,Texas,569,569,100.0
+Lot's O' Nuts,Utah,29,29,100.0
+Lot's O' Nuts,Vermont,5,5,100.0
+Lot's O' Nuts,Virginia,109,109,100.0
+Lot's O' Nuts,Washington,269,269,100.0
+Lot's O' Nuts,West Virginia,2,2,100.0
+Lot's O' Nuts,Wisconsin,58,58,100.0
+Lot's O' Nuts,Wyoming,1,1,100.0
+Secret Factory,Alabama,3,3,100.0
+Secret Factory,Alberta,2,2,100.0
+Secret Factory,Arizona,5,5,100.0
+Secret Factory,Arkansas,2,2,100.0
+Secret Factory,California,31,31,100.0
+Secret Factory,Colorado,7,7,100.0
+Secret Factory,Connecticut,1,1,100.0
+Secret Factory,Delaware,1,1,100.0
+Secret Factory,Florida,7,7,100.0
+Secret Factory,Georgia,7,7,100.0
+Secret Factory,Illinois,13,13,100.0
+Secret Factory,Indiana,4,4,100.0
+Secret Factory,Kentucky,2,2,100.0
+Secret Factory,Louisiana,2,2,100.0
+Secret Factory,Maryland,3,3,100.0
+Secret Factory,Massachusetts,2,2,100.0
+Secret Factory,Michigan,5,5,100.0
+Secret Factory,Minnesota,1,1,100.0
+Secret Factory,Mississippi,1,1,100.0
+Secret Factory,Nebraska,1,1,100.0
+Secret Factory,Nevada,2,2,100.0
+Secret Factory,New Hampshire,1,1,100.0
+Secret Factory,New Jersey,2,2,100.0
+Secret Factory,New Mexico,2,2,100.0
+Secret Factory,New York,24,24,100.0
+Secret Factory,North Carolina,4,4,100.0
+Secret Factory,Ohio,13,13,100.0
+Secret Factory,Oregon,2,2,100.0
+Secret Factory,Pennsylvania,19,19,100.0
+Secret Factory,Quebec,2,2,100.0
+Secret Factory,Rhode Island,3,3,100.0
+Secret Factory,South Carolina,1,1,100.0
+Secret Factory,Tennessee,3,3,100.0
+Secret Factory,Texas,16,16,100.0
+Secret Factory,Utah,1,1,100.0
+Secret Factory,Vermont,1,1,100.0
+Secret Factory,Virginia,5,5,100.0
+Secret Factory,Washington,11,11,100.0
+Secret Factory,Wisconsin,5,5,100.0
+Sugar Shack,Arizona,1,1,100.0
+Sugar Shack,California,1,1,100.0
+Sugar Shack,Connecticut,1,1,100.0
+Sugar Shack,Delaware,1,1,100.0
+Sugar Shack,Florida,3,3,100.0
+Sugar Shack,Illinois,2,2,100.0
+Sugar Shack,Michigan,3,3,100.0
+Sugar Shack,New Jersey,1,1,100.0
+Sugar Shack,New York,9,9,100.0
+Sugar Shack,Ohio,2,2,100.0
+Sugar Shack,Pennsylvania,3,3,100.0
+Sugar Shack,Rhode Island,1,1,100.0
+Sugar Shack,Tennessee,1,1,100.0
+Sugar Shack,Texas,3,3,100.0
+Sugar Shack,Washington,1,1,100.0
+The Other Factory,Alabama,2,2,100.0
+The Other Factory,Arizona,2,2,100.0
+The Other Factory,California,21,21,100.0
+The Other Factory,Colorado,2,2,100.0
+The Other Factory,Connecticut,2,2,100.0
+The Other Factory,Delaware,2,2,100.0
+The Other Factory,Florida,3,3,100.0
+The Other Factory,Georgia,2,2,100.0
+The Other Factory,Indiana,1,1,100.0
+The Other Factory,Kentucky,2,2,100.0
+The Other Factory,Louisiana,1,1,100.0
+The Other Factory,Maryland,1,1,100.0
+The Other Factory,Massachusetts,3,3,100.0
+The Other Factory,Missouri,1,1,100.0
+The Other Factory,Nevada,1,1,100.0
+The Other Factory,New Hampshire,2,2,100.0
+The Other Factory,New Jersey,3,3,100.0
+The Other Factory,New York,14,14,100.0
+The Other Factory,North Carolina,1,1,100.0
+The Other Factory,Ohio,3,3,100.0
+The Other Factory,Oregon,2,2,100.0
+The Other Factory,Pennsylvania,7,7,100.0
+The Other Factory,Rhode Island,1,1,100.0
+The Other Factory,South Carolina,1,1,100.0
+The Other Factory,Tennessee,3,3,100.0
+The Other Factory,Texas,9,9,100.0
+The Other Factory,Virginia,4,4,100.0
+The Other Factory,Washington,4,4,100.0
+Wicked Choccy's,Alabama,22,22,100.0
+Wicked Choccy's,Alberta,8,8,100.0
+Wicked Choccy's,Arizona,105,105,100.0
+Wicked Choccy's,Arkansas,27,27,100.0
+Wicked Choccy's,British Columbia,4,4,100.0
+Wicked Choccy's,California,823,823,100.0
+Wicked Choccy's,Colorado,70,70,100.0
+Wicked Choccy's,Connecticut,31,31,100.0
+Wicked Choccy's,Delaware,49,49,100.0
+Wicked Choccy's,District of Columbia,2,2,100.0
+Wicked Choccy's,Florida,161,161,100.0
+Wicked Choccy's,Georgia,65,65,100.0
+Wicked Choccy's,Idaho,7,7,100.0
+Wicked Choccy's,Illinois,210,210,100.0
+Wicked Choccy's,Indiana,54,54,100.0
+Wicked Choccy's,Iowa,14,14,100.0
+Wicked Choccy's,Kansas,9,9,100.0
+Wicked Choccy's,Kentucky,58,58,100.0
+Wicked Choccy's,Louisiana,15,15,100.0
+Wicked Choccy's,Maine,2,2,100.0
+Wicked Choccy's,Manitoba,10,10,100.0
+Wicked Choccy's,Maryland,41,41,100.0
+Wicked Choccy's,Massachusetts,54,54,100.0
+Wicked Choccy's,Michigan,100,100,100.0
+Wicked Choccy's,Minnesota,45,45,100.0
+Wicked Choccy's,Mississippi,22,22,100.0
+Wicked Choccy's,Missouri,29,29,100.0
+Wicked Choccy's,Montana,7,7,100.0
+Wicked Choccy's,Nebraska,14,14,100.0
+Wicked Choccy's,Nevada,12,12,100.0
+Wicked Choccy's,New Brunswick,4,4,100.0
+Wicked Choccy's,New Hampshire,11,11,100.0
+Wicked Choccy's,New Jersey,59,59,100.0
+Wicked Choccy's,New Mexico,17,17,100.0
+Wicked Choccy's,New York,436,436,100.0
+Wicked Choccy's,North Carolina,101,101,100.0
+Wicked Choccy's,North Dakota,2,2,100.0
+Wicked Choccy's,Nova Scotia,6,6,100.0
+Wicked Choccy's,Ohio,189,189,100.0
+Wicked Choccy's,Oklahoma,25,25,100.0
+Wicked Choccy's,Ontario,30,30,100.0
+Wicked Choccy's,Oregon,43,43,100.0
+Wicked Choccy's,Pennsylvania,227,227,100.0
+Wicked Choccy's,Prince Edward Island,4,4,100.0
+Wicked Choccy's,Quebec,24,24,100.0
+Wicked Choccy's,Rhode Island,21,21,100.0
+Wicked Choccy's,Saskatchewan,2,2,100.0
+Wicked Choccy's,South Carolina,19,19,100.0
+Wicked Choccy's,South Dakota,3,3,100.0
+Wicked Choccy's,Tennessee,67,67,100.0
+Wicked Choccy's,Texas,388,388,100.0
+Wicked Choccy's,Utah,23,23,100.0
+Wicked Choccy's,Vermont,5,5,100.0
+Wicked Choccy's,Virginia,106,106,100.0
+Wicked Choccy's,Washington,221,221,100.0
+Wicked Choccy's,West Virginia,2,2,100.0
+Wicked Choccy's,Wisconsin,47,47,100.0

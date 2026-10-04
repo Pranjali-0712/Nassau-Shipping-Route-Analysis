@@ -1,0 +1,5 @@
+Ship Mode,Shipments,Unique_Orders,Units,Sales,Cost,Gross_Profit,Average_Source_Date_Difference,Median_Source_Date_Difference,Profit_Margin
+First Class,1548,1312,5724,21319.39,7308.3,14011.09,1338.28,1272.0,65.72
+Same Day,547,442,1975,7113.67,2412.94,4700.73,1333.44,1269.0,66.08
+Second Class,1979,1653,7546,27860.22,9553.7,18306.52,1323.85,1273.0,65.71
+Standard Class,6120,5142,23409,85490.35,29065.89,56424.46,1314.33,1274.0,66.0

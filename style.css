@@ -1,0 +1,339 @@
+/* ============================================================
+   NASSAU CANDY DASHBOARD — PROFESSIONAL UI
+   ============================================================ */
+
+/* ---------- GLOBAL ---------- */
+
+.stApp {
+    background: #f5f7fb;
+}
+
+.block-container {
+    max-width: 1500px;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+
+/* ---------- TYPOGRAPHY ---------- */
+
+h1 {
+    color: #172033 !important;
+    font-size: 2.4rem !important;
+    font-weight: 800 !important;
+}
+
+h2 {
+    color: #172033 !important;
+    font-weight: 750 !important;
+    margin-top: 1.5rem !important;
+}
+
+h3 {
+    color: #26344d !important;
+    font-weight: 700 !important;
+}
+
+
+/* ---------- SIDEBAR ---------- */
+
+section[data-testid="stSidebar"] {
+    background: #172033;
+}
+
+section[data-testid="stSidebar"] * {
+    color: #ffffff !important;
+}
+
+section[data-testid="stSidebar"] h2 {
+    color: #ffffff !important;
+    font-weight: 750 !important;
+}
+
+section[data-testid="stSidebar"] label {
+    color: #dbe2ef !important;
+    font-weight: 600 !important;
+}
+
+
+/* Sidebar input boxes */
+
+section[data-testid="stSidebar"] [data-baseweb="select"] {
+    background: #202b42;
+    border-radius: 8px;
+}
+
+section[data-testid="stSidebar"] [data-baseweb="select"] > div {
+    background: #202b42;
+    border-color: #34415c;
+}
+
+
+/* ---------- KPI CARDS ---------- */
+
+div[data-testid="stMetric"] {
+    background: #ffffff;
+    border: 1px solid #e5e9f2;
+    border-radius: 14px;
+    padding: 20px;
+    min-height: 115px;
+    box-shadow: 0 4px 14px rgba(23, 32, 51, 0.06);
+    transition: all 0.2s ease;
+}
+
+div[data-testid="stMetric"]:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 22px rgba(23, 32, 51, 0.10);
+}
+
+div[data-testid="stMetricLabel"] {
+    color: #667085 !important;
+    font-size: 0.85rem !important;
+    font-weight: 650 !important;
+}
+
+div[data-testid="stMetricValue"] {
+    color: #172033 !important;
+    font-size: 1.65rem !important;
+    font-weight: 800 !important;
+}
+
+
+/* ---------- ALERT / WARNING BOX ---------- */
+
+div[data-testid="stAlert"] {
+    border-radius: 12px;
+    border: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+
+/* ---------- DATA TABLES ---------- */
+
+div[data-testid="stDataFrame"] {
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #e5e9f2;
+    box-shadow: 0 3px 12px rgba(23, 32, 51, 0.05);
+}
+
+
+/* ---------- CHART AREA ---------- */
+
+div[data-testid="stPlotlyChart"] {
+    background: #ffffff;
+    border: 1px solid #e5e9f2;
+    border-radius: 14px;
+    padding: 8px;
+    box-shadow: 0 3px 12px rgba(23, 32, 51, 0.05);
+    margin-bottom: 20px;
+}
+
+
+/* ---------- BUTTONS ---------- */
+
+.stButton > button {
+    border-radius: 8px;
+    font-weight: 650;
+    border: 1px solid #d9deea;
+    transition: all 0.2s ease;
+}
+
+.stButton > button:hover {
+    transform: translateY(-1px);
+}
+
+
+/* ---------- DIVIDERS ---------- */
+
+hr {
+    border: none;
+    border-top: 1px solid #dfe4ec;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+
+/* ---------- SIDEBAR DIVIDER ---------- */
+
+section[data-testid="stSidebar"] hr {
+    border-top: 1px solid #34415c;
+}
+
+
+/* ---------- INPUT FIELDS ---------- */
+
+.stTextInput input,
+.stNumberInput input {
+    border-radius: 8px;
+}
+
+
+/* ---------- SELECT BOX ---------- */
+
+[data-baseweb="select"] {
+    border-radius: 8px;
+}
+
+
+/* ---------- EXPANDERS ---------- */
+
+[data-testid="stExpander"] {
+    background: #ffffff;
+    border: 1px solid #e5e9f2;
+    border-radius: 12px;
+}
+
+
+/* ---------- RESPONSIVE ---------- */
+
+@media (max-width: 900px) {
+
+    .block-container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    h1 {
+        font-size: 2rem !important;
+    }
+
+    div[data-testid="stMetric"] {
+        margin-bottom: 10px;
+    }
+}
+/* ============================================================
+   DATE INPUT FIX
+   ============================================================ */
+
+div[data-testid="stDateInput"] input {
+    color: #172033 !important;
+    background-color: #ffffff !important;
+}
+
+div[data-testid="stDateInput"] input::placeholder {
+    color: #667085 !important;
+    opacity: 1 !important;
+}
+
+div[data-testid="stDateInput"] label {
+    color: #ffffff !important;
+}
+/* ============================================================
+   FINAL DASHBOARD POLISH
+   ============================================================ */
+
+/* Main dashboard background */
+.stApp {
+    background: #f5f7fb;
+}
+
+/* Main content spacing */
+.block-container {
+    padding-top: 2rem !important;
+    padding-bottom: 3rem !important;
+    max-width: 1500px !important;
+}
+
+/* Headings */
+h1 {
+    color: #172033 !important;
+    font-weight: 800 !important;
+}
+
+h2 {
+    color: #172033 !important;
+    font-weight: 750 !important;
+}
+
+h3 {
+    color: #26344d !important;
+    font-weight: 700 !important;
+}
+
+/* KPI cards */
+div[data-testid="stMetric"] {
+    background: #ffffff !important;
+    border: 1px solid #e5e9f2 !important;
+    border-radius: 16px !important;
+    padding: 20px !important;
+    box-shadow: 0 5px 18px rgba(23, 32, 51, 0.07) !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+div[data-testid="stMetric"]:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(23, 32, 51, 0.12) !important;
+}
+
+/* KPI labels */
+div[data-testid="stMetricLabel"] {
+    color: #667085 !important;
+    font-weight: 600 !important;
+}
+
+/* KPI values */
+div[data-testid="stMetricValue"] {
+    color: #172033 !important;
+    font-weight: 800 !important;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background: #172033 !important;
+}
+
+/* Sidebar text */
+section[data-testid="stSidebar"] * {
+    color: #ffffff !important;
+}
+
+/* Sidebar filter boxes */
+section[data-testid="stSidebar"] div[data-baseweb="select"] {
+    background: #ffffff !important;
+    border-radius: 10px !important;
+}
+
+/* Sidebar input text */
+section[data-testid="stSidebar"] input {
+    color: #172033 !important;
+}
+
+/* Date input */
+div[data-testid="stDateInput"] {
+    background: transparent !important;
+}
+
+div[data-testid="stDateInput"] input {
+    color: #172033 !important;
+    background: #ffffff !important;
+    border-radius: 10px !important;
+}
+
+/* Warning / information boxes */
+div[data-testid="stAlert"] {
+    border-radius: 12px !important;
+    border: none !important;
+    box-shadow: 0 3px 12px rgba(23, 32, 51, 0.05) !important;
+}
+
+/* Data tables */
+div[data-testid="stDataFrame"] {
+    border-radius: 12px !important;
+    overflow: hidden !important;
+    border: 1px solid #e5e9f2 !important;
+    box-shadow: 0 4px 14px rgba(23, 32, 51, 0.05) !important;
+}
+
+/* Buttons */
+.stButton > button {
+    border-radius: 9px !important;
+    font-weight: 600 !important;
+}
+
+/* Horizontal lines */
+hr {
+    border: none !important;
+    border-top: 1px solid #dfe4ec !important;
+    margin: 2rem 0 !important;
+}
