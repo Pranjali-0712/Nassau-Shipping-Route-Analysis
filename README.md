@@ -89,3 +89,64 @@ The dashboard will open in your browser at:
 ```
 http://localhost:8501
 ```
+## 🚀 Deployment
+
+The dashboard is deployed using **Streamlit Community Cloud**.
+
+**Live Dashboard:**  
+[Open the Live Dashboard](YOUR_STREAMLIT_URL)
+
+---
+
+## 📄 Research Paper
+
+A research paper has been prepared covering the project methodology, dataset, route analysis, lead-time analysis, geographic analysis, results, limitations, and future enhancements.
+
+**Research Paper:**  
+[View Research Paper](YOUR_RESEARCH_PAPER_URL)
+
+---
+
+## 🎥 Project Demonstration
+
+The project demonstration video explains the dashboard, methodology, major features, analysis, and key findings.
+
+**Project Demo Video:**  
+[Watch Project Demo](YOUR_VIDEO_URL)
+
+---
+
+## 💡 Business Value
+
+The dashboard can help logistics stakeholders:
+
+- Monitor shipping performance
+- Identify inefficient routes
+- Detect delay-prone destinations
+- Compare shipping modes
+- Evaluate factory performance
+- Identify geographic bottlenecks
+- Prioritize routes requiring attention
+- Support data-driven logistics planning
+
+---
+
+## 🔮 Future Enhancements
+
+- Real-time shipment tracking
+- Machine learning-based delay prediction
+- Automated route optimization
+- Demand forecasting
+- Traffic and weather integration
+- Shipping cost optimization
+- Automated alerts for high-risk routes
+- Cloud database integration
+- Real-time logistics APIs
+
+---
+
+## 👩‍💻 Author
+
+**Pranjali**  
+B.E. Computer Science and Engineering  
+SJC Institute of Technology, Karnataka, India
