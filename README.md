@@ -94,7 +94,7 @@ http://localhost:8501
 The dashboard is deployed using **Streamlit Community Cloud**.
 
 **Live Dashboard:**  
-[Open the Live Dashboard](YOUR_STREAMLIT_URL)
+[Open Live Dashboard](https://pranjali-0712-nassau-shipping-route-analysis-app-qvd82t.streamlit.app)
 
 ---
 
